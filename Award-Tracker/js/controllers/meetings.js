@@ -37,5 +37,5 @@ myApp.controller('MeetingsController',
   	};//User AUthenticated
   });// on Auth
 
-}]); //controller
+}]); //controllers
 
